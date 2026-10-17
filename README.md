@@ -27,6 +27,8 @@ and keep my skills fresh:
   Drag and drop, and everyone on the board sees changes live, even with several backend workers.
 - [booking-bot](https://github.com/sanjar2709/booking-bot): Telegram bot for booking appointments, aiogram 3.
   Free times, reminders, an admin panel inside the bot, and three languages.
+- [docs-assistant](https://github.com/sanjar2709/docs-assistant): ask questions about your PDFs and Word files.
+  pgvector search with embeddings that understand Uzbek, and Claude answers with links to the exact page.
 
 I'm open to new backend or full-stack roles. The easiest way to reach me is
 [Telegram](https://t.me/sanjar_samadov), or you can find me on
