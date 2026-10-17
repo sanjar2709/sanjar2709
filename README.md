@@ -21,6 +21,8 @@ and keep my skills fresh:
 
 - [shop-api](https://github.com/sanjar2709/shop-api): e-commerce backend in Django REST Framework.
   Cart, orders, Celery jobs, and checkout that never sells the same last item twice.
+- [booking-service](https://github.com/sanjar2709/booking-service): appointment booking API in FastAPI.
+  Free slots from weekly schedules, and PostgreSQL itself refuses overlapping bookings.
 
 I'm open to new backend or full-stack roles. The easiest way to reach me is
 [Telegram](https://t.me/sanjar_samadov), or you can find me on
