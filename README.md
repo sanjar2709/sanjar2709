@@ -29,6 +29,8 @@ and keep my skills fresh:
   Free times, reminders, an admin panel inside the bot, and three languages.
 - [docs-assistant](https://github.com/sanjar2709/docs-assistant): ask questions about your PDFs and Word files.
   pgvector search with embeddings that understand Uzbek, and Claude answers with links to the exact page.
+- [infra](https://github.com/sanjar2709/infra): how all of the above runs on one VPS. Ansible hardens the server,
+  Traefik serves HTTPS, GitHub Actions deploys, Grafana and Telegram alerts watch it, and backups run every night.
 
 I'm open to new backend or full-stack roles. The easiest way to reach me is
 [Telegram](https://t.me/sanjar_samadov), or you can find me on
