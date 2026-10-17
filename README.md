@@ -25,6 +25,8 @@ and keep my skills fresh:
   Free slots from weekly schedules, and PostgreSQL itself refuses overlapping bookings.
 - [taskboard](https://github.com/sanjar2709/taskboard): kanban board in Nuxt 4 and FastAPI.
   Drag and drop, and everyone on the board sees changes live, even with several backend workers.
+- [booking-bot](https://github.com/sanjar2709/booking-bot): Telegram bot for booking appointments, aiogram 3.
+  Free times, reminders, an admin panel inside the bot, and three languages.
 
 I'm open to new backend or full-stack roles. The easiest way to reach me is
 [Telegram](https://t.me/sanjar_samadov), or you can find me on
