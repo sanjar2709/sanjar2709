@@ -23,6 +23,8 @@ and keep my skills fresh:
   Cart, orders, Celery jobs, and checkout that never sells the same last item twice.
 - [booking-service](https://github.com/sanjar2709/booking-service): appointment booking API in FastAPI.
   Free slots from weekly schedules, and PostgreSQL itself refuses overlapping bookings.
+- [taskboard](https://github.com/sanjar2709/taskboard): kanban board in Nuxt 4 and FastAPI.
+  Drag and drop, and everyone on the board sees changes live, even with several backend workers.
 
 I'm open to new backend or full-stack roles. The easiest way to reach me is
 [Telegram](https://t.me/sanjar_samadov), or you can find me on
