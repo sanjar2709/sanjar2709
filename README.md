@@ -17,7 +17,10 @@ Things I work with most:
 - aiogram for Telegram bots
 
 Most of my work code is private, so the repos here are side projects I build to try ideas
-and keep my skills fresh.
+and keep my skills fresh:
+
+- [shop-api](https://github.com/sanjar2709/shop-api): e-commerce backend in Django REST Framework.
+  Cart, orders, Celery jobs, and checkout that never sells the same last item twice.
 
 I'm open to new backend or full-stack roles. The easiest way to reach me is
 [Telegram](https://t.me/sanjar_samadov), or you can find me on
